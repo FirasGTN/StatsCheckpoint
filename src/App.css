@@ -30,6 +30,7 @@ button{
   background : rgba(255, 255, 255, 0.10);
   backdrop-filter: blur(7.8px);
   color: white;
+  border: none;
 }
 
 button:hover{
