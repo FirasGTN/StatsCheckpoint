@@ -22,7 +22,7 @@ class App extends Component{
     return (
       <div className='body' >
         <div className='bt'>
-        <button onClick={this.toggleShow}>Toggle Profile</button>
+        <button onClick={this.toggleShow}> <h4> Toggle Profile </h4></button>
         </div>
         <div>
         {show && (
